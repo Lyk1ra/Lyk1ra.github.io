@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-09-23T03:01:04.388Z</updated>
+  <updated>2025-09-23T03:50:38.417Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Academia 主题测试文章</title>
+    <link href="http://example.com/2025/09/23/example-academia/"/>
+    <id>http://example.com/2025/09/23/example-academia/</id>
+    <published>2025-09-23T07:30:00.000Z</published>
+    <updated>2025-09-23T03:50:38.417Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个用于测试 <strong>Hexo Academia 主题首页显示</strong> 的文章。<br>如果你能在首页看到它，说明主题依赖和配置都已经正确安装。</p><h2 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h2><ul><li>文章标题：Academia 主题测试文章</li><li>发布时间：2025年9月23日</li><li>标签：测试、学术主页</li><li>特殊字段：<code>academia: true</code> （用于首页展示）</li></ul><h3 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h3><ol><li><strong>academia: true</strong> 只能作用在普通文章（post）。</li><li>独立页面（page）无法用这个字段在首页显示。</li><li>你可以用这个字段来控制哪些文章出现在首页，而不是全部文章。</li></ol><hr><p>恭喜你完成测试! 🎉</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个用于测试 &lt;strong&gt;Hexo Academia 主题首页显示&lt;/strong&gt; 的文章。&lt;br&gt;如果你能在首页看到它，说明主题依赖和配置都已经正确安装。&lt;/p&gt;
+&lt;h2 id=&quot;测试内容&quot;&gt;&lt;a href=&quot;#测试内容&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="学术主页" scheme="http://example.com/tags/%E5%AD%A6%E6%9C%AF%E4%B8%BB%E9%A1%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
