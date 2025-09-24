@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-09-24T01:16:25.901Z</updated>
+  <updated>2025-09-24T01:59:29.833Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎来到我的小天地</title>
+    <title>欢迎来到Lyk1ra的个人主页</title>
     <link href="http://example.com/2025/09/23/example-academia/"/>
     <id>http://example.com/2025/09/23/example-academia/</id>
     <published>2025-09-23T07:30:00.000Z</published>
-    <updated>2025-09-24T01:16:25.901Z</updated>
+    <updated>2025-09-24T01:59:29.833Z</updated>
     
-    <content type="html"><![CDATA[<p>这里是我的个人博客和学术小天地。</p><p>在这里，你会看到：</p><ul><li>我对研究的一些思考</li><li>日常学习笔记</li><li>有趣的项目分享</li><li>生活中的点滴感悟</li></ul><p>💡 如果你想更全面地了解我的学术经历与研究成果，请访问 <a href="/about">About 页面</a>。</p><p>希望这里能和更多志同道合的朋友交流、碰撞思想，欢迎留言或联系我！</p>]]></content>
+    <content type="html"><![CDATA[<p>这里是我的个人博客和学术自留地。</p><p>在这里，你会看到：</p><ul><li>我对研究的一些思考</li><li>日常学习笔记</li><li>有趣的项目分享</li><li>生活中的点滴感悟</li></ul><p>💡 如果你想更全面地了解我的学术经历与研究成果，请访问 <a href="/about">About 页面</a>。</p><p>希望这里能和更多志同道合的朋友交流、碰撞思想，欢迎留言或联系我！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这里是我的个人博客和学术小天地。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这里是我的个人博客和学术自留地。&lt;/p&gt;
 &lt;p&gt;在这里，你会看到：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;我对研究的一些思考&lt;/li&gt;
