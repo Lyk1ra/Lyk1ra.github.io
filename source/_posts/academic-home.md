@@ -9,7 +9,7 @@ academia: true
 
 <p class="profile-summary">I am an undergraduate student in the School of Integrated Circuits at Nanjing University, majoring in Integrated Circuit Design and Integrated Systems. My undergraduate research focuses on AI efficiency, especially quantization. In 2027, I will begin a PhD in Intelligent Science and Technology at Shanghai Jiao Tong University, advised by Professor Shaobo Cui. My doctoral research direction is world models.</p>
 
-<p class="profile-actions"><a class="button-link" href="/attaches/CV.pdf">Download CV (PDF)</a><a href="https://github.com/Lyk1ra">GitHub</a></p>
+<p class="profile-actions"><a class="button-link" href="/attaches/CV.pdf?v=1bef0a4">Download CV (PDF)</a><a href="https://github.com/Lyk1ra">GitHub</a></p>
 
 <h2 id="research">Research Interests</h2>
 <p><strong>Undergraduate:</strong> AI efficiency, with an emphasis on quantization.</p>
