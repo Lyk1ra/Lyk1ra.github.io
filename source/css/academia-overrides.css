@@ -27,7 +27,7 @@ body { color: #243247; background: #f7f8fa; font-family: Inter, -apple-system, B
 .profile-list { padding-left: 2.1rem; }
 .side-card .card-wrap { text-align: center; padding: 1.6rem 1rem; background: #fff; border: 1px solid #e3e8ef; border-radius: 10px; }
 .author-avatar { display: block; width: 12rem; height: 12rem; margin: 0 auto 1.1rem; }
-.author-avatar img { width: 12rem; height: 12rem; object-fit: cover; border-radius: 50%; border: 3px solid #edf1f6; }
+.author-avatar img { width: 12rem; height: 12rem; object-fit: cover; border-radius: 50%; border: 3px solid #edf1f6; filter: contrast(1.22) saturate(1.15) brightness(.96); }
 .author-discrip h3 { color: #243247; font-size: 1.9rem; }
 .author-bio { color: #65748a; }
 .author-links { margin-top: 1.3rem; }
