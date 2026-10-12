@@ -1,7 +1,7 @@
 favicon: /img/favicon.png
 
 # Change to your profile picture
-avatar: /images/avatar.jpg
+avatar: /images/avatar.jpg?v=a04f519
 # if author sets in hexo_config, this string doesn't work
 author: "Liu Xuan'ang"
 author_bio: 'AI Efficiency & Quantization · Incoming PhD Student in World Models'
@@ -39,7 +39,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV.pdf
+  dir: /attaches/CV.pdf?v=1bef0a4
   description: Download CV (PDF)
 
 # Box-shadow
