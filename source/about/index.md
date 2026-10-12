@@ -11,7 +11,7 @@ In 2027, I will join Shanghai Jiao Tong University as a PhD student in Intellige
 
 ## Research and Projects
 
-- **Lifted Uniform Quantization**, ICLR 2026.
+- [**LiftQuant: Continuous Bit-Width Control for Pareto-Optimal LLM Deployment**](https://icml.cc/virtual/2026/poster/66695) (ICML 2026).
 - 3D Gaussian Splatting scene reconstruction using drone imagery.
 - FPGA-based Gzip compressor.
 
