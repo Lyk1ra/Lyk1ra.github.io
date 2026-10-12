@@ -7,7 +7,7 @@ The `main` branch contains the published GitHub Pages site. This `hexo-source` b
 Requirements: Node.js and npm.
 
 ```powershell
-npm install
+npm ci
 npm run build
 ```
 
