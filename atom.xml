@@ -1,50 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Liu Xuan&#39;ang | Academic Homepage</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lyk1ra.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2025-09-24T01:59:29.833Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://lyk1ra.github.io/"/>
+  <updated>2026-10-12T02:19:19.175Z</updated>
+  <id>https://lyk1ra.github.io/</id>
   
   <author>
-    <name>刘轩昂</name>
+    <name>Liu Xuan&#39;ang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎来到Lyk1ra的个人主页</title>
-    <link href="http://example.com/2025/09/23/example-academia/"/>
-    <id>http://example.com/2025/09/23/example-academia/</id>
-    <published>2025-09-23T07:30:00.000Z</published>
-    <updated>2025-09-24T01:59:29.833Z</updated>
+    <title>Academic Homepage</title>
+    <link href="https://lyk1ra.github.io/2026/10/12/academic-home/"/>
+    <id>https://lyk1ra.github.io/2026/10/12/academic-home/</id>
+    <published>2026-10-11T16:00:00.000Z</published>
+    <updated>2026-10-12T02:19:19.175Z</updated>
     
-    <content type="html"><![CDATA[<p>这里是我的个人博客和学术自留地。</p><p>在这里，你会看到：</p><ul><li>我对研究的一些思考</li><li>日常学习笔记</li><li>有趣的项目分享</li><li>生活中的点滴感悟</li></ul><p>💡 如果你想更全面地了解我的学术经历与研究成果，请访问 <a href="/about">About 页面</a>。</p><p>希望这里能和更多志同道合的朋友交流、碰撞思想，欢迎留言或联系我！</p>]]></content>
+    <content type="html"><![CDATA[<h1 class="profile-name">Liu Xuan'ang</h1><p class="profile-headline">Undergraduate Student · Nanjing University <span>Incoming PhD Student · Shanghai Jiao Tong University, 2027</span></p><p class="profile-summary">I am an undergraduate student in the School of Integrated Circuits at Nanjing University, majoring in Integrated Circuit Design and Integrated Systems. My undergraduate research focuses on AI efficiency, especially quantization. In 2027, I will begin a PhD in Intelligent Science and Technology at Shanghai Jiao Tong University, advised by Professor Shaobo Cui. My doctoral research direction is world models.</p><p class="profile-actions"><a class="button-link" href="/attaches/CV.pdf">Download CV (PDF)</a><a href="https://github.com/Lyk1ra">GitHub</a><a href="mailto:231880478@smail.nju.edu.cn">Email</a></p><h2 id="research">Research Interests</h2><p><strong>Undergraduate:</strong> AI efficiency, with an emphasis on quantization.</p><p><strong>PhD:</strong> World models.</p><h2 id="education">Education</h2><div class="profile-entry"><h3>Nanjing University · School of Integrated Circuits</h3><p class="entry-meta">B.Eng. candidate in Integrated Circuit Design and Integrated Systems · 2023–2027</p></div><div class="profile-entry"><h3>Shanghai Jiao Tong University</h3><p class="entry-meta">Incoming PhD student in Intelligent Science and Technology · 2027–</p><p>Advisor: Professor Shaobo Cui</p></div><h2 id="publications">Selected Publication</h2><div class="publication"><p><strong>Lifted Uniform Quantization.</strong> ICLR 2026.</p><p class="entry-meta">Publication details and links will be added when available.</p></div><h2 id="projects">Selected Projects</h2><ul class="profile-list"><li>3D Gaussian Splatting scene reconstruction using drone imagery.</li><li>An FPGA-based high-efficiency Gzip compressor.</li></ul><h2 id="awards">Honors</h2><div class="profile-entry"><h3>Second Prize</h3><p class="entry-meta">9th National Undergraduate Integrated Circuit Innovation and Entrepreneurship Competition · 2025</p></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这里是我的个人博客和学术自留地。&lt;/p&gt;
-&lt;p&gt;在这里，你会看到：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我对研究的一些思考&lt;/li&gt;
-&lt;li&gt;日常学习笔记&lt;/li&gt;
-&lt;li&gt;有趣的项目分享&lt;/li&gt;
-&lt;li&gt;生活中的点滴感悟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;💡 如果你想更全面地了解我的</summary>
+    <summary type="html">&lt;h1 class=&quot;profile-name&quot;&gt;Liu Xuan&#39;ang&lt;/h1&gt;
+&lt;p class=&quot;profile-headline&quot;&gt;Undergraduate Student · Nanjing University &lt;span&gt;Incoming PhD Student</summary>
       
     
     
     
-    
-    <category term="首页" scheme="http://example.com/tags/%E9%A6%96%E9%A1%B5/"/>
-    
-    <category term="欢迎" scheme="http://example.com/tags/%E6%AC%A2%E8%BF%8E/"/>
     
   </entry>
   
